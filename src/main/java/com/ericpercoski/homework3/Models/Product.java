@@ -2,7 +2,7 @@ package com.ericpercoski.homework3.Models;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "product")
+@Table(name = "inventory")
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

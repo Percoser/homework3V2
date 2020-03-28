@@ -24,7 +24,7 @@
 </head>
 <body>
 
-<h2>HTML Table</h2>
+<h2 style="float: left; padding-left: 40%">Academy Sports 'n' Explore</h2>
 
 <table>
     <tr>
